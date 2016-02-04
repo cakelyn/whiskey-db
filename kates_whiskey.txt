@@ -1,0 +1,214 @@
+----- ORIGINAL WHISKEY LIST -----
+Bottling name: Michter's_American
+Bottled by: Kentucky_Bourbon_Distillers in Shively, Kentucky
+Type: unblended_American_whiskey
+Alcohol content: 83.4 proof, 41.7%
+Aged in bourbon-soaked_white_oak barrels
+
+Bottling name: Evan_Williams
+Bottled by: Old_Evan_Williams_Distillery in Bardstown, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 4 years
+
+Bottling name: Widow_Jane
+Bottled by: Widow_Jane_Distilling in Brooklyn, New_York
+Type: bourbon
+Alcohol content: 91 proof, 45.5%
+Aged in new_charred_oak barrels for 8 years
+
+Bottling name: Jameson
+Bottled by: Irish_Distillers_Limited in Ballsbridge, Dublin
+Type: Irish_whiskey
+Alcohol content: 80 proof, 40%
+Aged in wooden barrels for 7 years
+
+Bottling name: Lagavulin_16_Year
+Bottled by: Lagavulin_Distillery in Islay, Scotland
+Type: single_malt_scotch
+Alcohol content: 86 proof, 43%
+Aged in oak barrels for 16 years
+
+Bottling name: Michter's_Rye
+Bottled by: Kentucky_Bourbon_Distillers in Shively, Kentucky
+Type: rye
+Alcohol content: 84.8 proof, 42.4%
+Aged in charred_white_oak barrels for 3 years
+
+Bottling name: Basil_Hayden's
+Bottled by: James_B._Beam_Distilling_Co. in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 8 years
+
+Bottling name: Blanton's
+Bottled by: Buffalo_Trace_Distillery in Frankfort, Kentucky
+Type: bourbon
+Alcohol content: 93 proof, 46.5%
+Aged in new_charred_oak barrels for 9 years
+
+Bottling name: Clyde_May's
+Bottled by: Conecuh_Ridge_Distillery in Auburdale, Florida
+Type: Alabama_style_whiskey
+Alcohol content: 85 proof, 42.5%
+Aged in new_charred_oak barrels for 4 years
+
+Bottling name: Booker's
+Bottled by: James_B._Beam_Distillery in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 128 proof, 64%
+Aged in new_charred_oak barrels for 8 years
+
+Bottling name: Garrison_Brothers
+Bottled by: Garrison_Brothers_Distillery in Hye, Texas
+Type: bourbon
+Alcohol content: 94 proof, 47%
+Aged in new_charred_oak barrels for 2 years
+
+Bottling name: Talisker
+Bottled by: Talisker_Distillery in Skye, Scotland
+Type: sing_malt_scotch
+Alcohol content: 91.6 proof, 45.8%
+Aged in oak barrels for 10 years
+
+Bottling name: Angel's_Envy
+Bottled by: Louisville_Distilling_Co. in Louiseville, Kentucky
+Type: rye
+Alcohol content: 100 proof, 50%
+Aged in carribean_rum_casks barrels for 1 years
+
+Bottling name: Templeton_Rye
+Bottled by: Templeton_Rye_Spirits in Templeton, Iowa
+Type: rye
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 4 years
+
+----- WHISKEY LIST SORTED BY PROOF -----
+Bottling name: Evan_Williams
+Bottled by: Old_Evan_Williams_Distillery in Bardstown, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 4 years
+
+Bottling name: Jameson
+Bottled by: Irish_Distillers_Limited in Ballsbridge, Dublin
+Type: Irish_whiskey
+Alcohol content: 80 proof, 40%
+Aged in wooden barrels for 7 years
+
+Bottling name: Basil_Hayden's
+Bottled by: James_B._Beam_Distilling_Co. in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 8 years
+
+Bottling name: Templeton_Rye
+Bottled by: Templeton_Rye_Spirits in Templeton, Iowa
+Type: rye
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 4 years
+
+Bottling name: Michter's_American
+Bottled by: Kentucky_Bourbon_Distillers in Shively, Kentucky
+Type: unblended_American_whiskey
+Alcohol content: 83.4 proof, 41.7%
+Aged in bourbon-soaked_white_oak barrels
+
+Bottling name: Michter's_Rye
+Bottled by: Kentucky_Bourbon_Distillers in Shively, Kentucky
+Type: rye
+Alcohol content: 84.8 proof, 42.4%
+Aged in charred_white_oak barrels for 3 years
+
+Bottling name: Clyde_May's
+Bottled by: Conecuh_Ridge_Distillery in Auburdale, Florida
+Type: Alabama_style_whiskey
+Alcohol content: 85 proof, 42.5%
+Aged in new_charred_oak barrels for 4 years
+
+Bottling name: Lagavulin_16_Year
+Bottled by: Lagavulin_Distillery in Islay, Scotland
+Type: single_malt_scotch
+Alcohol content: 86 proof, 43%
+Aged in oak barrels for 16 years
+
+Bottling name: Widow_Jane
+Bottled by: Widow_Jane_Distilling in Brooklyn, New_York
+Type: bourbon
+Alcohol content: 91 proof, 45.5%
+Aged in new_charred_oak barrels for 8 years
+
+Bottling name: Talisker
+Bottled by: Talisker_Distillery in Skye, Scotland
+Type: sing_malt_scotch
+Alcohol content: 91.6 proof, 45.8%
+Aged in oak barrels for 10 years
+
+Bottling name: Blanton's
+Bottled by: Buffalo_Trace_Distillery in Frankfort, Kentucky
+Type: bourbon
+Alcohol content: 93 proof, 46.5%
+Aged in new_charred_oak barrels for 9 years
+
+Bottling name: Garrison_Brothers
+Bottled by: Garrison_Brothers_Distillery in Hye, Texas
+Type: bourbon
+Alcohol content: 94 proof, 47%
+Aged in new_charred_oak barrels for 2 years
+
+Bottling name: Angel's_Envy
+Bottled by: Louisville_Distilling_Co. in Louiseville, Kentucky
+Type: rye
+Alcohol content: 100 proof, 50%
+Aged in carribean_rum_casks barrels for 1 years
+
+Bottling name: Booker's
+Bottled by: James_B._Beam_Distillery in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 128 proof, 64%
+Aged in new_charred_oak barrels for 8 years
+
+Searching for bourbon...
+
+bourbon found!
+Bottling name: Evan_Williams
+Bottled by: Old_Evan_Williams_Distillery in Bardstown, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 4 years
+
+bourbon found!
+Bottling name: Basil_Hayden's
+Bottled by: James_B._Beam_Distilling_Co. in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 80 proof, 40%
+Aged in new_charred_oak barrels for 8 years
+
+bourbon found!
+Bottling name: Widow_Jane
+Bottled by: Widow_Jane_Distilling in Brooklyn, New_York
+Type: bourbon
+Alcohol content: 91 proof, 45.5%
+Aged in new_charred_oak barrels for 8 years
+
+bourbon found!
+Bottling name: Blanton's
+Bottled by: Buffalo_Trace_Distillery in Frankfort, Kentucky
+Type: bourbon
+Alcohol content: 93 proof, 46.5%
+Aged in new_charred_oak barrels for 9 years
+
+bourbon found!
+Bottling name: Garrison_Brothers
+Bottled by: Garrison_Brothers_Distillery in Hye, Texas
+Type: bourbon
+Alcohol content: 94 proof, 47%
+Aged in new_charred_oak barrels for 2 years
+
+bourbon found!
+Bottling name: Booker's
+Bottled by: James_B._Beam_Distillery in Clermont, Kentucky
+Type: bourbon
+Alcohol content: 128 proof, 64%
+Aged in new_charred_oak barrels for 8 years
+

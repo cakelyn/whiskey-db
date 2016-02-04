@@ -1,0 +1,95 @@
+----- ORIGINAL WHISKEY LIST -----
+Bottling name: Fuzzy_tub_moonshine
+Bottled by: Basement_Distillery in Brooklyn, New_York
+Type: Rye
+Alcohol content: 98 proof, 49%
+Aged in Charred_oak barrels for 3 years
+
+Bottling name: Raucous_hulk
+Bottled by: Sterile_Distillery_Co in Los_Angeles, California
+Type: Scotch
+Alcohol content: 77 proof, 38.5%
+Aged in White_oak barrels for 10 years
+
+Bottling name: Lonely_Lad
+Bottled by: Sickly_Distilleries in London, United_Kingdom
+Type: Blended
+Alcohol content: 50 proof, 25%
+Aged in Wooden barrels for 4 years
+
+Bottling name: Paint_Thinner_16_Year
+Bottled by: Terrible_Streets_Distilling in Boston, Massachusetts
+Type: Irish_Blend
+Alcohol content: 130 proof, 65%
+Aged in Charred_oak barrels for 16 years
+
+Bottling name: Hank_Williams
+Bottled by: Country_Kings_Distillery in Louisville, Kentucky
+Type: Bourbon
+Alcohol content: 101 proof, 50.5%
+Aged in American_oak barrels for 6 years
+
+Bottling name: Hells_Snowball
+Bottled by: Downhill_Distilling in Nashville, Tenessee
+Type: Rye
+Alcohol content: 87 proof, 43.5%
+Aged in White_oak barrels for 5 years
+
+Bottling name: Liquid_Fire
+Bottled by: General_Distilling_Co in Bourbon, 100
+Type: American_oak
+Alcohol content: 6 proof, 3%
+Aged in Rye barrels
+
+----- WHISKEY LIST SORTED BY PROOF -----
+Bottling name: Liquid_Fire
+Bottled by: General_Distilling_Co in Bourbon, 100
+Type: American_oak
+Alcohol content: 6 proof, 3%
+Aged in Rye barrels
+
+Bottling name: Lonely_Lad
+Bottled by: Sickly_Distilleries in London, United_Kingdom
+Type: Blended
+Alcohol content: 50 proof, 25%
+Aged in Wooden barrels for 4 years
+
+Bottling name: Raucous_hulk
+Bottled by: Sterile_Distillery_Co in Los_Angeles, California
+Type: Scotch
+Alcohol content: 77 proof, 38.5%
+Aged in White_oak barrels for 10 years
+
+Bottling name: Hells_Snowball
+Bottled by: Downhill_Distilling in Nashville, Tenessee
+Type: Rye
+Alcohol content: 87 proof, 43.5%
+Aged in White_oak barrels for 5 years
+
+Bottling name: Fuzzy_tub_moonshine
+Bottled by: Basement_Distillery in Brooklyn, New_York
+Type: Rye
+Alcohol content: 98 proof, 49%
+Aged in Charred_oak barrels for 3 years
+
+Bottling name: Hank_Williams
+Bottled by: Country_Kings_Distillery in Louisville, Kentucky
+Type: Bourbon
+Alcohol content: 101 proof, 50.5%
+Aged in American_oak barrels for 6 years
+
+Bottling name: Paint_Thinner_16_Year
+Bottled by: Terrible_Streets_Distilling in Boston, Massachusetts
+Type: Irish_Blend
+Alcohol content: 130 proof, 65%
+Aged in Charred_oak barrels for 16 years
+
+Searching for ...
+
+ not found.
+ not found.
+ not found.
+ not found.
+ not found.
+ not found.
+ not found.
